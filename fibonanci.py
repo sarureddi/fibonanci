@@ -1,6 +1,6 @@
-nterms = 5
-n1 = 0
-n2 = 1
+nterms=5
+n1=0
+n2=2
 count = 0
 if nterms <= 0:
    print("Please enter a positive integer")
